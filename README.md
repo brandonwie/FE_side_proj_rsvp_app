@@ -11,3 +11,5 @@
     - to improve a user experience, make the hide button to remove invitees who already confirmed
 3. local storage
     - save the state of the application
+
+by Brandon Wie
